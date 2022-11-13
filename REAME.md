@@ -272,6 +272,8 @@ Cú pháp destructring giúp giảm thiểu nhiều những dòng code không c�
 
 ## 7.Promise
 
+Promise là một cơ chế trong JavaScript giúp bạn thực thi các tác vụ bất đồng bộ mà không rơi vào callback hell hay pyramid of doom, là tình trạng các hàm callback lồng vào nhau ở quá nhiều tầng
+
 ## 8.Class
 
 Trong lập trình hướng đối tượng, class hay còn gọi là lớp được sử dụng để tạo đối tượng có thuộc tính (attribute) và phương thức (method). Từ phiên bản ECMAScript 6 thì JavaSript hỗ trợ tạo ra class giống các ngôn ngữ lập trình hướng đối tượng khác (Java, C++...).
